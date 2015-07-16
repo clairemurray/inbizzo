@@ -55,6 +55,8 @@ header {
 	padding: 0 0 1.5em 0;
 } 
 
+
+
 .nfglogo {
 	width: 3.5em;
 	margin-bottom: 2em;
@@ -116,8 +118,30 @@ a:hover {
 	border-bottom: 1px soild #3b5a9a;
 }
 
-footer div p {
+footer {
+	margin-top: 2em;
+}
+
+footer p {
 	width: 60%;
 	font-weight: bold;
-	margin-top: 2em;
+	float: left;
+}
+
+footer nav {
+	float: right;
+}
+
+footer nav a {
+	text-decoration: none;
+}
+
+.social {
+	width: 20px;
+	margin: 0 .5em 0 .5em;
+}
+
+.social.email {
+	background-image: url("img/email.svg");
+	background-repeat: no-repeat;
 }
