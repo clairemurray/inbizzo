@@ -106,7 +106,7 @@ button:hover {
 	border-bottom: 1px solid #084356;
 }
 
-section a {
+a {
 	font-weight: bold;
 	text-decoration: none;
 	border-bottom: 1px dotted #084356;
@@ -126,6 +126,7 @@ footer p {
 	width: 60%;
 	font-weight: bold;
 	float: left;
+	margin: .3em 0 .3em 0;
 }
 
 footer nav {
