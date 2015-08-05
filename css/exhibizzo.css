@@ -55,8 +55,6 @@ header {
 	padding: 0 0 1.5em 0;
 } 
 
-
-
 .nfglogo {
 	width: 3.5em;
 	margin-bottom: 2em;
@@ -135,14 +133,4 @@ footer nav {
 
 footer nav a {
 	text-decoration: none;
-}
-
-.social {
-	width: 20px;
-	margin: 0 .5em 0 .5em;
-}
-
-.social.email {
-	background-image: url("img/email.svg");
-	background-repeat: no-repeat;
 }
